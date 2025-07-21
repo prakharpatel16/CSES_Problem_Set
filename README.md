@@ -1,5 +1,8 @@
-## CSES Problem Set
-Each file is named according to the problem title with appropriate code structure and comments.
+# 🚀 CSES Problem Set Solutions
+
+Welcome to my repository of solutions to the [CSES Problem Set](https://cses.fi/problemset/), a collection of competitive programming problems curated by the University of Helsinki. These problems are widely used for practicing algorithmic techniques and data structures.
+
+---
 
 ## ✅ Topics Covered
 
@@ -13,6 +16,8 @@ Each file is named according to the problem title with appropriate code structur
 - Union-Find (DSU)
 - and more...
 
+---
+
 ## 🛠️ Technologies Used
 
 - Language: **C++**
@@ -20,12 +25,16 @@ Each file is named according to the problem title with appropriate code structur
 - Compiler: GCC with C++17/20 standard
 - Fast I/O techniques for optimization
 
+---
+
 ## 🧠 Why CSES?
 
 CSES is perfect for:
 - Building a solid foundation in competitive programming
 - Practicing standard algorithms used in coding contests
 - Preparing for contests like Codeforces, AtCoder, and ICPC
+
+---
 
 ## 📌 Note
 
