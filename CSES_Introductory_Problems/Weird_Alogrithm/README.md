@@ -12,18 +12,6 @@ Your task is to simulate the algorithm and print all values of `n` during the pr
 
 ---
 
-### Input
-
-- A single integer `n` (`1 ≤ n ≤ 10^6`)
-
----
-
-### Output
-
-- A sequence of integers ending with `1`.
-
----
-
 ## 🚀 Approach
 
 The logic follows directly from the problem description:
