@@ -40,6 +40,8 @@ CSES is perfect for:
 
 All solutions are my own implementations. Feel free to use them for learning purposes, but I encourage you to try solving problems on your own before looking at the code!
 
+---
+
 ## 🤝 Contributing
 
 If you spot an improvement or want to add alternate solutions, feel free to fork the repo and open a pull request!
